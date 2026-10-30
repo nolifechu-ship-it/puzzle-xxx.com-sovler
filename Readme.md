@@ -27,6 +27,7 @@
 10. 数邻 2026/10/20
 11. 单词寻找 2026/10/21
 12. 帐篷 2026/10/24
+13. 数回 2026/10/30（困难到写了三天😭）
 
 ## ❌ 不会收录的谜题
 1. 数独：市面上已经有足够多更强大的求解器，如SE、[sudoku.coach](sudoku.coach)
@@ -71,6 +72,7 @@ Daily/Weekly/Monthly Challenges: (Early solvers do not yet have an automatic cra
 10. dominosa
 11. wordsearch
 12. tents
+13. slitherlink
 
 ## ❌ Puzzles That Will Not Be Included
 1. Sudoku: There are already plenty of more powerful solvers available, such as SE and [sudoku.coach](sudoku.coach).
